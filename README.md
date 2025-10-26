@@ -24,4 +24,5 @@ Short Screen Recording – A 30-second video demo of browsing, adding to cart, a
 Bonus Features Implemented
 
 i) Assumptions: All data is mock hardcoded in JS; no real backend or payment processing. Images are from Unsplash or external sources for demo purposes.
+
 ii) Bonus Features: 3D pop-up animations, scrolling discount banner, empty cart message, responsive design for mobile, and hover effects for better UX.
