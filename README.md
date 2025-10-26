@@ -5,6 +5,7 @@ Setup Steps:
 1) Clone or download the repository to your local machine.
 2) Open the index.html file in any modern web browser.
 3) No server or installation required – it's a static site.
+
 Tech Stack Used
 HTML: For structure and layout.
 CSS: For styling, animations, and responsiveness.
