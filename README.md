@@ -13,10 +13,12 @@ Tech Stack Used
 2) CSS: For styling, animations, and responsiveness.
 3) JavaScript: For interactivity e.g., cart, popups, filtering.
    
-Screenshots or Short Screen Recording
+Screenshots or Short ScreenRecording
 
 Screenshot 1: Homepage – Shows the product grid and filters.
+
 Screenshot 2: Popup – Displays the 3D popup for a product.
+
 Short Screen Recording – A 30-second video demo of browsing, adding to cart, and checkout.
    
 Bonus Features Implemented
